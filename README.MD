@@ -3,18 +3,17 @@ Style Guide mock-up
 
 Basic mock-up site that mimics a typical style guide used by the developers for keeping content consistent throughout a website project. 
 
-A good test of positioning knowledge and using the:
+A good test of positioning knowledge and in using the box model:
 
 ``` 
 box-sizing: border-box 
 ```
 
-model rather than the:
+Rather than the content box model:
 
 ``` 
-content-box 
+box-sizing: content-box 
 ```
 
-model. 
 
 Happy with my clean code, and repsonsiveness of the site. 
