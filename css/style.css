@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 10%;
+    font-family: 'Work Sans', sans-serif;
+}
+
+header h1{
+    text-align: center;
+}
+
+h1 {
+    Font-weight: 900;
+    Font-size: 38px;
+}
+
+h2 {
+    Font-weight: 600;
+    Font-size: 23px;
+}
+
+p {
+    Font-weight: 400;
+    Font-size: 20px;
+}
+
+.container {
+    border: 2px solid black;
+    padding: 10px;
+    padding-left: 30px;
+    margin: 10px auto;
+}
+
+.color {
+    display: inline-block;
+    min-height: 100px;
+    width: 25%;
+    text-align: center;
+    margin: 25px auto;
+    min-width: 180px;
+}
+
+.fontHeaders {
+    text-decoration: underline;
+}
+
+.textStyles {
+    margin-bottom: 30px;
+}
+
+#indianred {
+    background-color: indianred;
+}
+
+#blue {
+    background-color: cornflowerblue;
+}
+
+#orange {
+    background-color: chocolate;
+}
+ #worksansFont {
+     text-align: left;
+ }
