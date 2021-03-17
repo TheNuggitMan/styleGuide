@@ -5,15 +5,15 @@ Basic mock-up site that mimics a typical style guide used by the developers for 
 
 A good test of positioning knowledge and using the:
 
---- 
+``` 
 box-sizing: border-box 
---- 
+```
 
 model rather than the:
 
---- 
+``` 
 content-box 
---- 
+```
 
 model. 
 
